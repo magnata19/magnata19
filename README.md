@@ -1,4 +1,4 @@
-### Hi there 👋
+Fala pessoal, tudo bem? Me chamo Davidson e atualmente sou estudante de ADS e estou diariamente melhorando minhas habilidades. Sou desenvolvedor fullstack e atualmente estou focado na stack backend com java springboot. 👋
 
 <!--
 **magnata19/magnata19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
