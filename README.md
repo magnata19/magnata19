@@ -1,4 +1,30 @@
-Fala pessoal, tudo bem? Me chamo Davidson e atualmente sou estudante de ADS e estou diariamente melhorando minhas habilidades. Sou desenvolvedor fullstack e atualmente estou focado na stack backend com java springboot. 👋
+{
+  "nome": "Davidson",
+  "sobrenome": "Pacifico",
+  "idade": 24,
+  "interesses": {
+    "tecnologias": [
+      {
+        "nomeDaTecnologia": "Java"
+      },
+      {
+        "nomeDaTecnologia": "SpringBoot"
+      },
+      {
+        "nomeDaTecnologia": "MySql"
+      },
+      {
+        "nomeDaTecnologia": "PostgreSQL"
+      },
+      {
+        "nomeDaTecnologia": "React"
+      }
+    ],
+    "musicas": "Rock e músicas internacionais",
+    "livros": "livros de tecnologia e de histórias",
+    "idiomas": "Português fluente e inglês intermediário"
+  }
+}
 
 <!--
 **magnata19/magnata19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
