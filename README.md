@@ -27,32 +27,7 @@ Atualmente estou cursando o 4º semestre do **Bacharelado em Ciência da Computa
 - **Docker**, **Git**, **GitHub**, **VSCode**, **Postman**
 
 #### 🧩 Arquitetura & Metodologias
-- **DDD**, **MVC**, **Kanban**, **Clean Architecture**
-
----
-
-### 💼 Experiências em Destaque
-
-#### 🔹 Backend Developer @ Routinely
-- Desenvolvimento de funcionalidades backend usando **NestJS**, **Prisma** e **PostgreSQL**
-- Aplicação de **Arquitetura Hexagonal**, **DDD** e testes com **Jest**
-
-#### 🔹 Projeto Pessoal - Sistema de Chat em Tempo Real
-- Fullstack com **React + NestJS + WebSocket**
-- Interface responsiva com **ShadCN** e autenticação via **JWT**
-
-#### 🔹 Projeto Acadêmico - API de Check-in de Veículos
-- Backend com **Spring Boot**, **MySQL**, **JPA** e documentação com **Swagger**
-
-#### 🔹 Projeto Freelancer - API com Autenticação
-- Backend com **NestJS**, **PostgreSQL**, **Prisma**, **JWT** e validação com **Class-Validator**
-
----
-
-### 📚 Formação Acadêmica
-
-🎓 **Ciência da Computação** – 4º semestre  
-Estudos voltados para desenvolvimento web, banco de dados, segurança, computação em nuvem e arquitetura de sistemas.
+- **DDD**, **MVC**, **Kanban**, **Clean Architecture**]
 
 ---
 
